@@ -1,4 +1,4 @@
-# N-Queens Visualiser
+# N-Queens Visualiser.
 
 ## 🚀 Features
 
@@ -8,7 +8,7 @@
 - ⏱️ Speed control slider – Adjust the visualisation speed from SLOW to FAST.
 - 🎮 Interactive UI – Simple play button to start the process.
 
-## 🧩 How It Works
+## 🧩 How It Works.
 
 **Solves the N-Queens problem using a backtracking algorithm.**
 
