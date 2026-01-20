@@ -18,6 +18,5 @@
 - ❌ **Ensures no two queens threaten each other** (no same row, column, or diagonal).
 - 📊 **Displays each solution visually** on dynamically generated boards.
 - 🌀 **Includes animation** that progresses at a speed chosen by the user.
-# change
-- Something needs to be changed
+
 
